@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_primary">#3F51B5</color>
+    <color name="color_primary_dark">#303F9F</color>
+    <color name="color_accent">#FF4081</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue">#FF0000FF</color>
+    <color name="red">#FFFF0000</color>
+    <color name="bright_green">#FF00FF00</color>
+    <color name="yellow">#FFFFFF00</color>
+    <color name="violet">#8D38C9</color>
+    <color name="green">#FF008000</color>
+    <color name="grey">#736F6E</color>
+    <color name="maroon">#810541</color>
+    <color name="magenta">#FF00FF</color>
+    <color name="purple">#8E35EF</color>
+    <color name="lavender">#E3E4FA</color>
+    <color name="light_blue">#ADDFFF</color>
+    <color name="light_cyan">#E0FFFF</color>
+    <color name="cyan">#00FFFF</color>
+    <color name="turquoise">#43C6DB</color>
+    <color name="light_sea_green">#3EA99F</color>
+    <color name="sky_blue">#82CAFF</color>
+    <color name="gold">#D4A017</color>
+    <color name="dark_orange">#F88017</color>
+    <color name="pink">#FAAFBE</color>
+    <color name="random">#3F51B5</color>
+    <color name="deep_sky_blue">#3BB9FF</color>
+    <color name="yellow_green">#52D017</color>
+    <color name="dark_golden_rod1">#FBB117</color>
+
+
+
+
+
+
+
+</resources>
